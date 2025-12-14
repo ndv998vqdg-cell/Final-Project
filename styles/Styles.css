@@ -23,6 +23,7 @@ body {
 
 .graphic {
     background: #3a3a3a;
+    height: 600px
     padding: 20px;
     margin: 20px;
     position: relative;
@@ -52,5 +53,6 @@ img {
     position: relative;
     
 }
+
 
 
